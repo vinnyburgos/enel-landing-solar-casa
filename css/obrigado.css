@@ -9,11 +9,26 @@ body {
 }
 
 .btn-download {
-	height: 56px;
-	line-height: 56px;
+	display: inline-block;
+	width: 100%;
+	max-width: 215px;
+	margin: 25px 0 40px 0;
+	padding: 20px 25px;
+	font-size: 16px;
+	font-weight: 800;
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #ffffff;
+	background: #FF4300;
+	margin-top: -30px;
 }
 
 h3.h3obrigado {
 	width: 80%;
 	font-size: 25px !important;
+}
+.text-orange {
+	font-size: 20px !important;
+	color: #FF4300 !important;
 }
