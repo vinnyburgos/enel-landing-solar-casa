@@ -1,0 +1,19 @@
+html {
+	font-family: 'Univers LT Std';
+	font-size: 15px;
+}
+
+body {
+	width: 100%;
+	margin: 0;
+}
+
+.btn-download {
+	height: 56px;
+	line-height: 56px;
+}
+
+h3.h3obrigado {
+	width: 80%;
+	font-size: 25px !important;
+}

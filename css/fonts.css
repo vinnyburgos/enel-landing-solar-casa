@@ -1,0 +1,62 @@
+/* 
+@font-face {font-family: "Univers LT Std";
+    src: url("/fonts/d85410082243ec6a4322ace19d5b74bb.eot");
+    src: url("/fonts/d85410082243ec6a4322ace19d5b74bb.eot?#iefix") format("embedded-opentype"),
+    url("/fonts/d85410082243ec6a4322ace19d5b74bb.woff2") format("woff2"),
+    url("/fonts/d85410082243ec6a4322ace19d5b74bb.woff") format("woff"),
+    url("/fonts/d85410082243ec6a4322ace19d5b74bb.ttf") format("truetype"),
+    url("/fonts/d85410082243ec6a4322ace19d5b74bb.svg#Univers LT Std") format("svg");
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {font-family: "Univers LT Std";
+    src: url("/fonts/1147c7d21a49bf3a0b11f96cde81361f.eot");
+    src: url("/fonts/1147c7d21a49bf3a0b11f96cde81361f.eot?#iefix") format("embedded-opentype"),
+    url("/fonts/1147c7d21a49bf3a0b11f96cde81361f.woff2") format("woff2"),
+    url("/fonts/1147c7d21a49bf3a0b11f96cde81361f.woff") format("woff"),
+    url("/fonts/1147c7d21a49bf3a0b11f96cde81361f.ttf") format("truetype"),
+    url("/fonts/1147c7d21a49bf3a0b11f96cde81361f.svg#Univers LT Std") format("svg");
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {font-family: "Univers LT Std";
+    src: url("/fonts/e93576bbe6e7599d042e2cae1bdba8c4.eot");
+    src: url("/fonts/e93576bbe6e7599d042e2cae1bdba8c4.eot?#iefix") format("embedded-opentype"),
+    url("/fonts/e93576bbe6e7599d042e2cae1bdba8c4.woff2") format("woff2"),
+    url("/fonts/e93576bbe6e7599d042e2cae1bdba8c4.woff") format("woff"),
+    url("/fonts/e93576bbe6e7599d042e2cae1bdba8c4.ttf") format("truetype"),
+    url("/fonts/e93576bbe6e7599d042e2cae1bdba8c4.svg#Univers LT Std") format("svg");
+    font-weight: 100;
+    font-style: normal;
+}
+*/
+@font-face {font-family: "Univers LT Std";
+    src: url("fonts/d85410082243ec6a4322ace19d5b74bb.eot");
+    src: url("fonts/d85410082243ec6a4322ace19d5b74bb.eot?#iefix") format("embedded-opentype"),
+    url("fonts/d85410082243ec6a4322ace19d5b74bb.woff2") format("woff2"),
+    url("fonts/d85410082243ec6a4322ace19d5b74bb.woff") format("woff"),
+    url("fonts/d85410082243ec6a4322ace19d5b74bb.ttf") format("truetype"),
+    url("fonts/d85410082243ec6a4322ace19d5b74bb.svg#Univers LT Std") format("svg");
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {font-family: "Univers LT Std";
+    src: url("fonts/1147c7d21a49bf3a0b11f96cde81361f.eot");
+    src: url("fonts/1147c7d21a49bf3a0b11f96cde81361f.eot?#iefix") format("embedded-opentype"),
+    url("fonts/1147c7d21a49bf3a0b11f96cde81361f.woff2") format("woff2"),
+    url("fonts/1147c7d21a49bf3a0b11f96cde81361f.woff") format("woff"),
+    url("fonts/1147c7d21a49bf3a0b11f96cde81361f.ttf") format("truetype"),
+    url("fonts/1147c7d21a49bf3a0b11f96cde81361f.svg#Univers LT Std") format("svg");
+    font-weight: 600;
+	font-style: normal;
+}
+@font-face {font-family: "Univers LT Std";
+    src: url("fonts/e93576bbe6e7599d042e2cae1bdba8c4.eot");
+    src: url("fonts/e93576bbe6e7599d042e2cae1bdba8c4.eot?#iefix") format("embedded-opentype"),
+    url("fonts/e93576bbe6e7599d042e2cae1bdba8c4.woff2") format("woff2"),
+    url("fonts/e93576bbe6e7599d042e2cae1bdba8c4.woff") format("woff"),
+    url("fonts/e93576bbe6e7599d042e2cae1bdba8c4.ttf") format("truetype"),
+    url("fonts/e93576bbe6e7599d042e2cae1bdba8c4.svg#Univers LT Std") format("svg");
+    font-weight: 100;
+	font-style: normal;
+}
