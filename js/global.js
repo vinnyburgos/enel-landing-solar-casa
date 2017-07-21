@@ -20,7 +20,7 @@ var globalFunctions = {
     },
     submit: function() {
         $("form").submit(function(event) {
-            window.open('ebook_pratil_cobranca_facil.pdf', '_blank');
+            window.open('Guia_Energia_Solar_Filipe.pdf', '_blank');
         });
     },
 }
